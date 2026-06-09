@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Crawford! 👋
+
+An aspiring full stack developer with a keen interest in backend systems and DevOps, Studying BSc in computer science @ University of Glasgow
+
+🌱 I’m currently learning <mark>React & Typescript</mark>
 
 <!--
 **crawfordclarke/crawfordclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
